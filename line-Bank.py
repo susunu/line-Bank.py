@@ -11,7 +11,7 @@ cl.login(token="EmqyfGRzG8shyaxxyxva.h3KqNoP0JeN8FrJP6uiJoG.65n8x0QhvQulMeOArHx3
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EmwnVm7w7q6NlRziTL3d.cwB+CDbraDzJDa9X1PRpxq.GzQZOQbUdJHQyru23nhTyM52/ycsmG+rg9q1kfjah2I=")
+ki.login(qr=True)
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
@@ -31,7 +31,7 @@ ki5.login(token="EmabC3fOGOWwmEygtp13.x29XInczKFNk/xybxHWLaW.thsEmz8zYjLz9BgPilr
 ki5.loginResult()
 
 ki6 = LINETCR.LINE()
-ki6.login(token="EmV3Z7jQ9Wg9FZWwPs1a.EZrmTlyikc+xw1PbTxMkMG.ad92k8jIFR2mSsvn6MzMeJBEPpWY6xdlVCAVPUD9bIo=")
+ki6.login(token="EmwnVm7w7q6NlRziTL3d.cwB+CDbraDzJDa9X1PRpxq.GzQZOQbUdJHQyru23nhTyM52/ycsmG+rg9q1kfjah2I=")
 ki6.loginResult()
 
 helpMessage ="""      ✍👉ยินดีต้อนรับสู่คำสั่งบอท😈
